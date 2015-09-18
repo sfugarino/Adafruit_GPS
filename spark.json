@@ -1,0 +1,7 @@
+{ 
+   "name": "Adafruit GPS Library", 
+   "author": "Adafruit", 
+   "license": "MIT", 
+   "version": "1.0.0", 
+   "description": "An interrupt-based GPS library for no-parsing-required use" 
+} 
