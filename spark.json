@@ -1,5 +1,5 @@
 { 
-   "name": "Adafruit GPS Library", 
+   "name": "Adafruit_GPS", 
    "author": "Adafruit", 
    "license": "MIT", 
    "version": "1.0.0", 
